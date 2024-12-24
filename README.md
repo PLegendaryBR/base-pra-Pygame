@@ -18,7 +18,8 @@ pip install pygame
 3-Verifique a instalação (opcional):
 Depois de instalar, você pode verificar se o Pygame foi instalado corretamente digitando:
 
-4-python -m pygame --version
+python -m pygame --version
+
 Isso mostrará a versão instalada do Pygame.
 
 Agora, o Pygame está pronto para ser usado no seu projeto Python!
