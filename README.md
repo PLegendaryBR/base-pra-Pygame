@@ -23,3 +23,5 @@ python -m pygame --version
 Isso mostrará a versão instalada do Pygame.
 
 Agora, o Pygame está pronto para ser usado no seu projeto Python!
+
+versão 1.0
